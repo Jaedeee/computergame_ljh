@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Gems
   layers:
   - Default
   - TransparentFX
@@ -44,6 +45,12 @@ TagManager:
   - name: Player
     uniqueID: 434591835
     locked: 0
-  - name: Tree
-    uniqueID: 1995642483
+  - name: Trees
+    uniqueID: 164095493
+    locked: 0
+  - name: Items
+    uniqueID: 445454889
+    locked: 0
+  - name: UI
+    uniqueID: 2108635023
     locked: 0
